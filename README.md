@@ -1,4 +1,11 @@
-写一个银行的后端。目的是练习和熟悉工具链。
+# Bank BackEnd
+
+学习写一个银行的后端。目的是练习和熟悉工具链。
+
+更详细的笔记记录在`Note`中，请自行查阅，自认为会有所帮助。
+
+## 开发环境
+windows11 wsl2 
 
 ## 数据库 
 使用dbdiagram.io 和 docker postgresql:12-alpine  编写和设计数据库。  
